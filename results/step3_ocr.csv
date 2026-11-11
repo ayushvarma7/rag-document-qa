@@ -1,0 +1,181 @@
+Category,Question,Expected,Retriever,Response,Context,Num Contexts,Context Chars,Faithfulness,Relevancy
+Semantic,How can people living with migraine cope with feeling judged or dismissed by others?,"Connect with others who live with migraine. Almost half of people with chronic migraine feel stigma, and stigma may hurt quality of life more than the headache itself.",AutoMerging,"People living with migraine can cope with feelings of judgment or dismissal by others by being their own advocate and speaking up about their condition. They can also connect with others who understand their experiences, as shared understanding can help reduce feelings of stigma.","SOURCE: World Health Organization
+
+Almost half of people with chronic migraine report feeling stigma... elf like I do my patients—with compas-sion and love. These days, I treat myself like my best friend.",3,1905,1.0,1.0
+Semantic,What can someone do in their day-to-day life to anticipate when a migraine attack might hit?,"Track sleep, energy and stress. In a 477-person app study, poor sleep (overall or the night before) or low energy the day before predicted morning attacks, while more stress or unusually high energy predicted afternoon and evening attacks.",BM25,"To anticipate migraine attacks in your day-to-day life, consider tracking your sleep, energy levels, and stress throughout the day. This can help you identify patterns that may trigger an attack. For instance, poor sleep overall, poor sleep the night before, or low energy the day before can indicate a higher likelihood of a morning migraine. Meanwhile, higher stress levels or significantly increased energy levels may signal an afternoon or evening attack.","By Sonya Collins Reviewed by Melinda Ratini, DO, MS, WebMD Medical Reviewer
+
+hen you have chronic mi... elf like I do my patients—with compas-sion and love. These days, I treat myself like my best friend.",3,2735,1.0,1.0
+Semantic,How can people living with migraine cope with feeling judged or dismissed by others?,"Connect with others who live with migraine. Almost half of people with chronic migraine feel stigma, and stigma may hurt quality of life more than the headache itself.",Base,"People living with migraine can cope with feeling judged or dismissed by others by connecting with others who understand their condition. This can help reduce feelings of stigma and provide a supportive community. Additionally, being open about the condition and educating others can help combat misconceptions and prejudices. It's also important to practice self-compassion and self-care, treating oneself with kindness and understanding, as one would a good friend.","SOURCE: World Health Organization
+
+Almost half of people with chronic migraine report feeling stigma... elf like I do my patients—with compas-sion and love. These days, I treat myself like my best friend.",3,1905,1.0,1.0
+Keyword,"What is eptinezumab-jjmr, how is it given, and how often?","It is VYEPTI, a prescription medicine for the preventive treatment of migraine in adults, given by a healthcare provider as an intravenous infusion every 3 months.",Base,"Eptinezumab-jjmr, also known as VYEPTI, is a prescription medicine used for the preventive treatment of migraine in adults. It is given by a healthcare provider as an intravenous infusion. The treatment is administered every 3 months.","Summary of Information About VYEPTI
+
+Important Facts about VYEPTI® (vye-ep’-tee) injection for intra... ptoms: Lacrimation, Nasal congestion, Rhinorrhea, Ptosis and/or eyelid edema Restlessness/agitation.",3,1989,1.0,1.0
+Semantic,What can someone do in their day-to-day life to anticipate when a migraine attack might hit?,"Track sleep, energy and stress. In a 477-person app study, poor sleep (overall or the night before) or low energy the day before predicted morning attacks, while more stress or unusually high energy predicted afternoon and evening attacks.",AutoMerging,"To anticipate migraine attacks in your day-to-day life, consider tracking your sleep, energy levels, stress, and mood throughout the day. This can help you identify patterns that may trigger your migraines. For instance, poor sleep overall or the night before, low energy the day before, high stress levels, or significantly higher-than-usual energy levels could indicate an increased likelihood of a migraine attack.","By Sonya Collins Reviewed by Melinda Ratini, DO, MS, WebMD Medical Reviewer
+
+hen you have chronic mi... o terms with my pain—that it’s not my fault and that I can celebrate progress (fewer migraines, less",3,3279,1.0,1.0
+Keyword,"What is eptinezumab-jjmr, how is it given, and how often?","It is VYEPTI, a prescription medicine for the preventive treatment of migraine in adults, given by a healthcare provider as an intravenous infusion every 3 months.",AutoMerging,"Eptinezumab-jjmr, also known as VYEPTI, is a prescription medicine used for the preventive treatment of migraine in adults. It is given by a healthcare provider as an intravenous infusion. The frequency of administration is every 3 months.","Summary of Information About VYEPTI
+
+Important Facts about VYEPTI® (vye-ep’-tee) injection for intra... ptoms: Lacrimation, Nasal congestion, Rhinorrhea, Ptosis and/or eyelid edema Restlessness/agitation.",3,1989,1.0,1.0
+Keyword,"What is eptinezumab-jjmr, how is it given, and how often?","It is VYEPTI, a prescription medicine for the preventive treatment of migraine in adults, given by a healthcare provider as an intravenous infusion every 3 months.",BM25,"Eptinezumab-jjmr, also known as VYEPTI, is a prescription medicine used for the preventive treatment of migraine in adults. It is given by a healthcare provider as an intravenous infusion, typically every 3 months.","Summary of Information About VYEPTI
+
+Important Facts about VYEPTI® (vye-ep’-tee) injection for intra... c migraine
+TREATMENT SMARTS Manage your chronic migraine
+LIVING HEALTHY Prioritize lifestyle changes",3,1325,1.0,1.0
+Keyword,"Which monoclonal antibodies that block CGRP are mentioned, and what are the options if you relapse on a CGRP antibody drug?","Atogepant, eptinezumab, erenumab, fremanezumab and galcanezumab. After a relapse you can switch to a different CGRP medication or try botulinum toxin injection.",Base,"The monoclonal antibodies that block CGRP mentioned are atogepant, eptinezumab, erenumab, fremanezumab, and galcanezumab. If you relapse on a CGRP antibody drug, you can consider switching to a different CGRP medication or opting for botulinum toxin injection.","For example, if you relapse on a CGRP antibody drug, “We can always switch you to a different CGRP m... alled CGRP that play a role in migraine
+
+Some nondrug options might also help with chronic migraine.",3,2622,1.0,1.0
+Keyword,"Which monoclonal antibodies that block CGRP are mentioned, and what are the options if you relapse on a CGRP antibody drug?","Atogepant, eptinezumab, erenumab, fremanezumab and galcanezumab. After a relapse you can switch to a different CGRP medication or try botulinum toxin injection.",BM25,"The monoclonal antibodies that block CGRP (Calcitonin Gene-Related Peptide) mentioned are:
+- Atogepant
+- Eptinezumab
+- Erenumab
+- Fremanezumab
+- Galcanezumab
+
+If you relapse on a CGRP antibody drug, you have the following options:
+- Switch to a different CGRP medication
+- Consider botulinum toxin (Botox) injection","For example, if you relapse on a CGRP antibody drug, “We can always switch you to a different CGRP m... different CGRP medication,” Dominguez says. “You also have the option of botulinum toxin injection.”",3,2622,1.0,1.0
+Keyword,"Which monoclonal antibodies that block CGRP are mentioned, and what are the options if you relapse on a CGRP antibody drug?","Atogepant, eptinezumab, erenumab, fremanezumab and galcanezumab. After a relapse you can switch to a different CGRP medication or try botulinum toxin injection.",AutoMerging,"The monoclonal antibodies that block CGRP mentioned are atogepant, eptinezumab, erenumab, fremanezumab, and galcanezumab. If you relapse on a CGRP antibody drug, your doctor can switch you to a different CGRP medication or consider botulinum toxin injection as alternative options.","Ask your doctor about nerve stimulation, biofeedback, transcranial magnetic stimulation, and acupunc... alled CGRP that play a role in migraine
+
+Some nondrug options might also help with chronic migraine.",2,2437,1.0,1.0
+Semantic,How can people living with migraine cope with feeling judged or dismissed by others?,"Connect with others who live with migraine. Almost half of people with chronic migraine feel stigma, and stigma may hurt quality of life more than the headache itself.",BM25,"People living with migraine can cope with feeling judged or dismissed by others by connecting with others who also experience migraines. This can help reduce feelings of stigma and provide a supportive community to share experiences and advice. Additionally, educating others about the severity and impact of migraines can help combat misconceptions and dismissive attitudes.","SOURCE: World Health Organization
+
+Almost half of people with chronic migraine report feeling stigma... nd more page 9
+How I help others help me page 14
+LIVING HEALTHY
+Prioritize lifestyle changes page 16",3,2513,0.0,1.0
+Multi-Chunk,"What classes of preventive medication can a doctor prescribe for chronic migraine, and which nondrug procedures might also help?","Blood pressure medicines (atenolol, propranolol, verapamil), anti-seizure medicines (Depakote, sodium valproate), tricyclic antidepressants (amitriptyline), botulinum toxin injections and CGRP monoclonal antibodies. Nondrug options are nerve stimulation, biofeedback, transcranial magnetic stimulation and acupuncture.",BM25,"A doctor can prescribe several classes of preventive medication for chronic migraine, including:
+- Beta-blockers like atenolol or propranolol, which lower blood pressure and may correct blood flow issues to the brain.
+- Anti-seizure medications such as Depakote or sodium valproate, which interact with brain chemicals potentially causing headaches.
+- Tricyclic antidepressants like amitriptyline, which affect serotonin levels in the brain to prevent headaches.
+- Botulinum toxin injections, which interfere with nerves involved in headache pain.
+- Monoclonal antibody treatments like atogepant, eptinezumab, erenumab, fremanezumab, or galcanezumab, which block chemical messengers in the brain called CGRP that contribute to migraine.
+
+Nondrug procedures that might help include:
+- Switching or adding medications to potentially achieve better results.
+- Botulinum toxin injections, which can be an alternative or additional treatment option.",Preventive medicine helps cut down the number of headache days you have and might convert chronic mi...  that “a really good preventive treatment strategy may make rescue medications even more effective.”,3,1944,1.0,1.0
+Semantic,What can someone do in their day-to-day life to anticipate when a migraine attack might hit?,"Track sleep, energy and stress. In a 477-person app study, poor sleep (overall or the night before) or low energy the day before predicted morning attacks, while more stress or unusually high energy predicted afternoon and evening attacks.",Base,"To anticipate migraine attacks in your day-to-day life, consider tracking and monitoring certain factors that have been linked to migraine patterns. These include:
+
+1. **Sleep Quality**: Poor overall sleep or poor sleep the night before can increase the likelihood of morning migraine attacks. Try to maintain a consistent sleep schedule and ensure you're getting enough restful sleep each night.
+
+2. **Energy Levels**: Low energy levels the day before can also signal an increased risk of morning migraine attacks. Pay attention to your energy levels throughout the day and try to maintain a balanced energy level.
+
+3. **Stress Levels**: Higher stress levels can contribute to afternoon or evening migraine attacks. Practice stress management techniques, such as mindfulness, meditation, or yoga, to help keep stress levels in check.
+
+4. **Mood and Energy Fluctuations**: Significant changes in mood or energy levels can also indicate an impending migraine. Keep a log of your mood and energy levels to help identify any patterns or triggers.
+
+5. **Track Other Factors**: In addition to the above, consider tracking other factors that might trigger your migraines, such as diet, weather changes, or specific activities. Everyone's triggers are unique, so it's essential to pay attention to what your body is telling you.
+
+By consistently tracking these factors, you may be able to anticipate when a migraine attack might hit, allowing you to take preventive measures or treat the attack early.","By Sonya Collins Reviewed by Melinda Ratini, DO, MS, WebMD Medical Reviewer
+
+hen you have chronic mi... herapy. It has been helpful to learn that relief can come from both medication and natural remedies.",3,3216,1.0,1.0
+Structured/Multimedia,What are the four stages of a migraine and how long does each stage last?,"Prodrome lasts a few hours to a few days, aura lasts five to 60 minutes, the headache or attack lasts four to 72 hours, and postdrome lasts 24 to 48 hours (image-only content on the Migraine Stages graphic).",Base,"The four stages of a migraine are prodrome, aura, headache or attack, and postdrome. The duration of each stage varies: prodrome can last from a few hours to a few days, aura from five to 60 minutes, headache or attack from four to 72 hours, and postdrome from 24 to 48 hours.","Migraine Stages
+Prodrome: few hours to a few days
+Aura: five to 60 minutes
+Headache or attack: four ... ptoms: Lacrimation, Nasal congestion, Rhinorrhea, Ptosis and/or eyelid edema Restlessness/agitation.",3,646,1.0,1.0
+Multi-Chunk,How is sleep connected to migraine according to the different sections of the document?,"News: poor sleep overall, poor sleep the night before, or low energy predicted morning attacks. Comorbidities: chronic migraine raises the risk of sleep apnea, insomnia and restless legs syndrome and is linked to poorer sleep quality and duration.",BM25,"Sleep is connected to migraine in several ways, according to the provided sections:
+
+1. **Sleep Quality and Timing of Migraine Attacks**: A study using a phone app found that poor sleep overall, poor sleep the night before, or low energy the day before increased the likelihood of morning migraine attacks. Conversely, higher-than-usual energy levels or more stress could trigger afternoon or evening attacks.
+
+2. **Sleep Disorders and Chronic Migraine**: The document mentions that people with chronic migraine have an increased risk of various sleep disorders, including:
+   - Sleep apnea
+   - Insomnia
+   - Restless legs syndrome
+   - Poor sleep quality and duration
+
+3. **Sleep Apnea and Migraine**: The document also notes that people with chronic migraine are more likely to have sleep apnea, a condition characterized by repeated episodes of paused breathing during sleep.","SOURCE: World Health Organization
+
+Almost half of people with chronic migraine report feeling stigma... onnection, but one theory is these disorders may have the same underlying cause as chronic migraine.",3,3406,1.0,1.0
+Multi-Chunk,How is sleep connected to migraine according to the different sections of the document?,"News: poor sleep overall, poor sleep the night before, or low energy predicted morning attacks. Comorbidities: chronic migraine raises the risk of sleep apnea, insomnia and restless legs syndrome and is linked to poorer sleep quality and duration.",Base,"Sleep is connected to migraine in several ways, as suggested by different sections of the document:
+
+1. **Living Healthy: Prioritize lifestyle changes (page 16)** - This section likely discusses the importance of maintaining a regular sleep schedule and getting adequate rest to help manage chronic migraine symptoms.
+
+2. **WebMD CHRONIC MIGRAINE FIRST PERSON: BEING MY OWN ADVOCATE** - Here, it's implied that individuals with chronic migraine should speak up about their condition, which might include discussing sleep disturbances or the impact of sleep deprivation on their migraine frequency and severity.
+
+3. **NEWS CHRONIC MIGRAINE: THE LATEST ON** - This section might present recent findings or expert opinions on the connection between sleep and migraine, such as the role of sleep disorders (like insomnia or sleep apnea) in triggering or exacerbating migraine attacks.","WebMD REAL STORIES CHRONIC MIGRAINE
+HEALTH SMARTS
+A look inside yourhead and more page 9
+How I help ... G MY OWN ADVOCATE Having chronic migraine can be debilitating: Don't hide it. Speak up for yourself.",3,369,0.0,1.0
+Multi-Chunk,How is sleep connected to migraine according to the different sections of the document?,"News: poor sleep overall, poor sleep the night before, or low energy predicted morning attacks. Comorbidities: chronic migraine raises the risk of sleep apnea, insomnia and restless legs syndrome and is linked to poorer sleep quality and duration.",AutoMerging,"Sleep can be connected to migraine in several ways, as suggested by different sections of the document:
+
+1. **LIVING HEALTHY**: The section on 'LIVING HEALTHY' suggests prioritizing lifestyle changes, which could include maintaining a regular sleep schedule. This implies that consistent sleep patterns might help manage migraines.
+
+2. **HEALTH SMARTS**: The 'HEALTH SMARTS' section discusses a 'look inside your head', which might refer to understanding the triggers for migraine. Sleep deprivation or irregular sleep patterns could be one such trigger.
+
+3. **WebMD CHRONIC MIGRAINE FIRST PERSON**: The 'BEING MY OWN ADVOCATE' section emphasizes the importance of speaking up about one's condition. This could include discussing sleep issues with a healthcare provider, as sleep disturbances are common in people with chronic migraine and can exacerbate symptoms.","WebMD REAL STORIES CHRONIC MIGRAINE
+HEALTH SMARTS
+A look inside yourhead and more page 9
+How I help ... G MY OWN ADVOCATE Having chronic migraine can be debilitating: Don't hide it. Speak up for yourself.",3,369,0.0,1.0
+Multi-Chunk,"What classes of preventive medication can a doctor prescribe for chronic migraine, and which nondrug procedures might also help?","Blood pressure medicines (atenolol, propranolol, verapamil), anti-seizure medicines (Depakote, sodium valproate), tricyclic antidepressants (amitriptyline), botulinum toxin injections and CGRP monoclonal antibodies. Nondrug options are nerve stimulation, biofeedback, transcranial magnetic stimulation and acupuncture.",Base,"A doctor may prescribe several classes of preventive medication for chronic migraine, including:
+
+- Beta-blockers: such as atenolol or propranolol, which can help regulate blood flow to the brain.
+- Anti-seizure medications: like Depakote or sodium valproate, which interact with brain chemicals that may be causing headaches.
+- Tricyclic antidepressants: such as amitriptyline, which can prevent headaches by affecting serotonin levels in the brain.
+- Botulinum toxin injections: which can interfere with the nerves involved in headache pain.
+- Monoclonal antibody treatments: like atogepant, eptinezumab, erenumab, fremanezumab, or galcanezumab, which block chemical messengers in the brain called CGRP that play a role in migraine.
+
+In addition to these medications, some nondrug procedures might also help with chronic migraine, such as:
+
+- Therapy: Learning coping strategies and stress management techniques through therapy can be beneficial for some people with chronic migraine.
+- Lifestyle modifications: Changes in diet, exercise, and sleep habits may help reduce the frequency and severity of migraine attacks.",Preventive medicine helps cut down the number of headache days you have and might convert chronic mi... herapy. It has been helpful to learn that relief can come from both medication and natural remedies.,3,3221,1.0,1.0
+Structured/Multimedia,"According to the headache types table, what are the location, type of pain, intensity, and duration of a tension-type headache?","Bilateral location, pressing or tightening (nonpulsating) pain, mild to moderate intensity, lasting 30 minutes to 7 days, with no nausea or vomiting and no more than one of photophobia or phonophobia.",Base,"Tension-type headaches are typically bilateral, characterized by a pressing or tightening, non-pulsating pain. Their intensity ranges from mild to moderate, and they can last anywhere from 30 minutes to 7 days.","Headache Type: Tension-type. Location: Bilateral. Type of Pain: Pressing/tightening (nonpulsating). ... hours. Aggravating Factors: Physical activity. Symptoms: Nausea, Vomiting, Photophobia, Phonophobia.",3,775,1.0,1.0
+Structured/Multimedia,What are the four stages of a migraine and how long does each stage last?,"Prodrome lasts a few hours to a few days, aura lasts five to 60 minutes, the headache or attack lasts four to 72 hours, and postdrome lasts 24 to 48 hours (image-only content on the Migraine Stages graphic).",AutoMerging,"The four stages of a migraine are:
+
+1. **Prodrome** – This early phase may last from a few hours to a few days.
+2. **Aura** – Typically lasts between five to 60 minutes.
+3. **Headache or attack** – The main phase, which can range from four to 72 hours.
+4. **Postdrome** – The recovery phase, lasting around 24 to 48 hours.","Migraine Stages
+Prodrome: few hours to a few days
+Aura: five to 60 minutes
+Headache or attack: four ... ptoms: Lacrimation, Nasal congestion, Rhinorrhea, Ptosis and/or eyelid edema Restlessness/agitation.",3,646,1.0,1.0
+Structured/Multimedia,What are the four stages of a migraine and how long does each stage last?,"Prodrome lasts a few hours to a few days, aura lasts five to 60 minutes, the headache or attack lasts four to 72 hours, and postdrome lasts 24 to 48 hours (image-only content on the Migraine Stages graphic).",BM25,"The four stages of a migraine are:
+1. Prodrome: lasting from a few hours to a few days
+2. Aura: lasting five to 60 minutes
+3. Headache or attack: lasting four to 72 hours
+4. Postdrome: lasting 24 to 48 hours","Migraine Stages
+Prodrome: few hours to a few days
+Aura: five to 60 minutes
+Headache or attack: four ... o terms with my pain—that it’s not my fault and that I can celebrate progress (fewer migraines, less",3,1715,1.0,1.0
+Structured/Multimedia,"According to the headache types table, what are the location, type of pain, intensity, and duration of a tension-type headache?","Bilateral location, pressing or tightening (nonpulsating) pain, mild to moderate intensity, lasting 30 minutes to 7 days, with no nausea or vomiting and no more than one of photophobia or phonophobia.",BM25,"A tension-type headache is typically bilateral, characterized by a pressing or tightening (non-pulsating) pain, with mild to moderate intensity. It can last from 30 minutes to 7 days.","Headache Type: Tension-type. Location: Bilateral. Type of Pain: Pressing/tightening (nonpulsating). ... ptoms: Lacrimation, Nasal congestion, Rhinorrhea, Ptosis and/or eyelid edema Restlessness/agitation.",3,775,1.0,1.0
+Multi-Chunk,"What classes of preventive medication can a doctor prescribe for chronic migraine, and which nondrug procedures might also help?","Blood pressure medicines (atenolol, propranolol, verapamil), anti-seizure medicines (Depakote, sodium valproate), tricyclic antidepressants (amitriptyline), botulinum toxin injections and CGRP monoclonal antibodies. Nondrug options are nerve stimulation, biofeedback, transcranial magnetic stimulation and acupuncture.",AutoMerging,"A doctor may prescribe several classes of preventive medication for chronic migraine, including:
+
+1. **Blood pressure-lowering medications**: Such as atenolol, propranolol, and verapamil, which may help by correcting issues with blood flow to the brain.
+2. **Anti-seizure medicines**: Like Depakote and sodium valproate, which interact with brain chemicals potentially causing headaches.
+3. **Tricyclic antidepressants**: Such as amitriptyline, which might prevent headaches by affecting serotonin levels in the brain.
+4. **Botulinum toxin injections**: These can interfere with nerves involved in headache pain.
+5. **Monoclonal antibody treatments**: Such as atogepant, eptinezumab, erenumab, fremanezumab, and galcanezumab, which block chemical messengers in the brain called CGRP that play a role in migraine.
+
+Nondrug procedures that might help with chronic migraine include:
+
+- **Therapy**: This can help patients come to terms with their pain and celebrate progress in reducing migraine frequency.
+- **Eye-related migraine testing**: While not a treatment, proper diagnosis is crucial for effective management.","Preventive medicine helps cut down the number of headache days you have and might convert chronic mi... o terms with my pain—that it’s not my fault and that I can celebrate progress (fewer migraines, less",3,3284,1.0,1.0
+Structured/Multimedia,"According to the headache types table, what are the location, type of pain, intensity, and duration of a tension-type headache?","Bilateral location, pressing or tightening (nonpulsating) pain, mild to moderate intensity, lasting 30 minutes to 7 days, with no nausea or vomiting and no more than one of photophobia or phonophobia.",AutoMerging,"Tension-type headaches are typically bilateral, characterized by a pressing or tightening (nonpulsating) pain, with mild to moderate intensity, lasting between 30 minutes to 7 days.","Headache Type: Tension-type. Location: Bilateral. Type of Pain: Pressing/tightening (nonpulsating). ... hours. Aggravating Factors: Physical activity. Symptoms: Nausea, Vomiting, Photophobia, Phonophobia.",3,775,1.0,1.0
+Out-of-Scope,How much does a VYEPTI infusion cost per dose with insurance?,Not in document. The model should refuse rather than invent a price.,Base,The cost of a VYEPTI infusion per dose with insurance can vary depending on your specific insurance plan and coverage. It's best to contact your insurance provider or healthcare provider for personalized information about the cost.,"Summary of Information About VYEPTI
+
+Important Facts about VYEPTI® (vye-ep’-tee) injection for intra... s into your breast milk.  You are under . It is not non if VYEPTI is safe and effective in children.",3,2662,0.0,0.0
+Out-of-Scope,How much does a VYEPTI infusion cost per dose with insurance?,Not in document. The model should refuse rather than invent a price.,BM25,The cost of a VYEPTI infusion per dose with insurance can vary depending on your specific insurance plan and location. It's best to contact your insurance provider or healthcare provider for the most accurate and up-to-date information on the cost of VYEPTI with your insurance coverage.,"Summary of Information About VYEPTI
+
+Important Facts about VYEPTI® (vye-ep’-tee) injection for intra... s into your breast milk.  You are under . It is not non if VYEPTI is safe and effective in children.",3,2662,0.0,0.0
+Numeric Precision,"What percentage of people with fibromyalgia also have chronic migraine, and what percentage of people with chronic migraine also have fibromyalgia?","Over 55% of people with fibromyalgia also have chronic migraine, and about 30% of people with chronic migraine also have fibromyalgia.",Base,"Over 55% of people with fibromyalgia also have chronic migraine, and about 30% of people with chronic migraine also have fibromyalgia.","By Rachel Reiff Ellis
+
+NEUROLOGICAL DISORDERS Other conditions that affect the brain, such as epilep...  SMARTS CHRONIC MIGRAINE
+COMORBIDITIES These conditions often go hand-in-hand with chronic migraine.",3,2216,1.0,1.0
+Numeric Precision,"What percentage of people with fibromyalgia also have chronic migraine, and what percentage of people with chronic migraine also have fibromyalgia?","Over 55% of people with fibromyalgia also have chronic migraine, and about 30% of people with chronic migraine also have fibromyalgia.",AutoMerging,"Over 55% of people with fibromyalgia also have chronic migraine, and about 30% of people with chronic migraine also have fibromyalgia.","MOOD DISORDERS Your chance of having depression and anxiety is between 30% and 50%. These odds go up...  SMARTS CHRONIC MIGRAINE
+COMORBIDITIES These conditions often go hand-in-hand with chronic migraine.",2,1908,1.0,1.0
+Ambiguous/Hints,"Is chronic migraine genetic, and will I pass it on to my children?","Not stated in document. The only hint is a personal story where both of the writer's parents had migraines, plus a theory that some neurological comorbidities may share an underlying cause. The model should not claim migraine is proven to be inherited or give a risk figure.",BM25,"Chronic migraine can have a genetic component, as it tends to run in families. However, it's not solely determined by genetics. Environmental factors and other health conditions can also play a role. It's possible to pass on a tendency to develop chronic migraine to your children, but it's not guaranteed. It's important to discuss your family history and any concerns about your children's health with your healthcare provider.",llergic reactions can happen after receiving VYEPTI. Call your healthcare provider or get emergency ... G MY OWN ADVOCATE Having chronic migraine can be debilitating: Don't hide it. Speak up for yourself.,3,1950,0.0,0.0
+Out-of-Scope,How much does a VYEPTI infusion cost per dose with insurance?,Not in document. The model should refuse rather than invent a price.,AutoMerging,The cost of a VYEPTI infusion per dose with insurance can vary depending on your specific insurance plan and coverage. It's best to contact your insurance provider or your healthcare provider's billing department for an estimate of your out-of-pocket costs. You can also call 1-833-4-VYEPTI (833-489-3784) for more information.,"Summary of Information About VYEPTI
+
+Important Facts about VYEPTI® (vye-ep’-tee) injection for intra...  Seattle BioPharmaceuticals, Inc. EPT-L-100015
+
+GUIDES-StandardFullPage.indd 1
+
+5/29/2024 1:27:31 PM",1,2134,0.0,0.0
+Numeric Precision,"What percentage of people with fibromyalgia also have chronic migraine, and what percentage of people with chronic migraine also have fibromyalgia?","Over 55% of people with fibromyalgia also have chronic migraine, and about 30% of people with chronic migraine also have fibromyalgia.",BM25,"Over 55% of people with fibromyalgia also have chronic migraine, and about 30% of people with chronic migraine also have fibromyalgia.","By Rachel Reiff Ellis
+
+NEUROLOGICAL DISORDERS Other conditions that affect the brain, such as epilep... ay add another or consider switching, just to see what the maximum benefit is that can be attained.”",3,2568,1.0,1.0
+Ambiguous/Hints,"Is chronic migraine genetic, and will I pass it on to my children?","Not stated in document. The only hint is a personal story where both of the writer's parents had migraines, plus a theory that some neurological comorbidities may share an underlying cause. The model should not claim migraine is proven to be inherited or give a risk figure.",Base,"Migraines can have a genetic component, as they tend to run in families. In your case, both your parents have experienced migraines. However, having a family history of migraines doesn't guarantee that your children will inherit them. It's also important to note that environmental factors and lifestyle can play a role in triggering migraines. Therefore, while there's a possibility that your children may develop migraines, it's not certain. It's always a good idea to discuss any family health history concerns with a healthcare provider.","By Lizzy Swick, MS, RDN Reviewed by Melinda Ratini, DO, MS, WebMD Medical Reviewer
+
+was out with fri... herapy. It has been helpful to learn that relief can come from both medication and natural remedies.",3,2120,1.0,1.0
+Ambiguous/Hints,"Is chronic migraine genetic, and will I pass it on to my children?","Not stated in document. The only hint is a personal story where both of the writer's parents had migraines, plus a theory that some neurological comorbidities may share an underlying cause. The model should not claim migraine is proven to be inherited or give a risk figure.",AutoMerging,"Migraine can have a genetic component, as it tends to run in families. If you have a family history of migraine, such as your parents, there's a higher chance that your children might inherit a tendency to develop migraines. However, it's important to note that even if you have a family history of migraine, it doesn't mean your children will definitely develop them. Other factors, such as environmental triggers and lifestyle, also play a role in migraine onset and frequency. It's always a good idea to discuss any genetic concerns with a healthcare provider.","By Lizzy Swick, MS, RDN Reviewed by Melinda Ratini, DO, MS, WebMD Medical Reviewer
+
+was out with fri... o terms with my pain—that it’s not my fault and that I can celebrate progress (fewer migraines, less",1,2781,1.0,1.0

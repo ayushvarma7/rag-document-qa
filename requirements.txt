@@ -1,0 +1,22 @@
+# Versions used for the saved outputs (Python 3.12). tabula-py also needs Java.
+llama-index==0.12.17
+llama-index-llms-openrouter==0.3.1
+llama-index-llms-huggingface==0.4.2
+llama-index-embeddings-huggingface==0.5.1
+llama-index-retrievers-bm25==0.5.2
+sentence-transformers==5.7.0
+transformers
+huggingface-hub
+python-dotenv
+pdfplumber==0.11.10
+pymupdf==2.1
+easyocr==1.7.2
+tabula-py==2.10.0
+tabulate
+jpype1
+PyStemmer
+pandas
+numpy
+matplotlib
+nest-asyncio
+jupyter
